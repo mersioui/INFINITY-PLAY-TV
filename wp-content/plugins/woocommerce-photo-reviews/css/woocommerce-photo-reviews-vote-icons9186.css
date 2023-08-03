@@ -1,0 +1,49 @@
+/*
+  Flaticon icon font: Flaticon
+  Creation date: 15/07/2019 09:38
+  */
+
+@font-face {
+    font-family: "woocommerce-photo-reviews-vote-icons";
+    src: url("../fonts/vote-icons.eot");
+    src: url("../fonts/vote-iconsd41d.eot?#iefix") format("embedded-opentype"),
+        url("../fonts/vote-icons.woff2") format("woff2"),
+        url("../fonts/vote-icons.woff") format("woff"),
+        url("../fonts/vote-icons.ttf") format("truetype"),
+        url("../fonts/vote-icons.svg#Flaticon") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio: 0) {
+    @font-face {
+        font-family: "woocommerce-photo-reviews-vote-icons";
+        src: url("../fonts/vote-icons.svg#Flaticon") format("svg");
+    }
+}
+
+[class^="woocommerce-photo-reviews-vote-"]:before,
+[class*=" woocommerce-photo-reviews-vote-"]:before,
+[class^="woocommerce-photo-reviews-vote-"]:after,
+[class*=" woocommerce-photo-reviews-vote-"]:after {
+    font-family: woocommerce-photo-reviews-vote-icons;
+    font-size: 20px;
+    font-style: normal;
+    margin: 0;
+}
+
+.woocommerce-photo-reviews-vote-like-1:before {
+    content: "\f100";
+}
+
+.woocommerce-photo-reviews-vote-dislike:before {
+    content: "\f101";
+}
+
+.woocommerce-photo-reviews-vote-like:before {
+    content: "\f102";
+}
+
+.woocommerce-photo-reviews-vote-dislike-1:before {
+    content: "\f103";
+}

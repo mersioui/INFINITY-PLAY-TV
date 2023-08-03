@@ -1,0 +1,40 @@
+{
+    "id": 56,
+    "count": 2,
+    "description": "",
+    "link": "https:\/\/elite-streamtv.com\/product-category\/abonnement-infinity\/",
+    "name": "Abonnement Infinity",
+    "slug": "abonnement-infinity",
+    "taxonomy": "product_cat",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https:\/\/elite-streamtv.com\/wp-json\/wp\/v2\/product_cat\/56"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https:\/\/elite-streamtv.com\/wp-json\/wp\/v2\/product_cat"
+            }
+        ],
+        "about": [
+            {
+                "href": "https:\/\/elite-streamtv.com\/wp-json\/wp\/v2\/taxonomies\/product_cat"
+            }
+        ],
+        "wp:post_type": [
+            {
+                "href": "https:\/\/elite-streamtv.com\/wp-json\/wp\/v3\/product?product_cat=56"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https:\/\/api.w.org\/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

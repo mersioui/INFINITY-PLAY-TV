@@ -1,0 +1,86 @@
+{
+    "id": 6,
+    "date": "2020-11-06T18:39:12",
+    "date_gmt": "2020-11-06T18:39:12",
+    "guid": {
+        "rendered": "http:\/\/elite-streamtv.com\/index.php\/cart\/"
+    },
+    "modified": "2021-01-01T21:05:50",
+    "modified_gmt": "2021-01-01T21:05:50",
+    "slug": "cart",
+    "status": "publish",
+    "type": "page",
+    "link": "https:\/\/elite-streamtv.com\/cart\/",
+    "title": {
+        "rendered": "Panier"
+    },
+    "content": {
+        "rendered": "\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https:\/\/elite-streamtv.com\/wp-json\/wp\/v2\/pages\/6"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https:\/\/elite-streamtv.com\/wp-json\/wp\/v2\/pages"
+            }
+        ],
+        "about": [
+            {
+                "href": "https:\/\/elite-streamtv.com\/wp-json\/wp\/v2\/types\/page"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https:\/\/elite-streamtv.com\/wp-json\/wp\/v2\/users\/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https:\/\/elite-streamtv.com\/wp-json\/wp\/v2\/comments?post=6"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 2,
+                "href": "https:\/\/elite-streamtv.com\/wp-json\/wp\/v2\/pages\/6\/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 5580,
+                "href": "https:\/\/elite-streamtv.com\/wp-json\/wp\/v2\/pages\/6\/revisions\/5580"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https:\/\/elite-streamtv.com\/wp-json\/wp\/v2\/media?parent=6"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https:\/\/api.w.org\/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}
